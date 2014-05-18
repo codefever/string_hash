@@ -1,3 +1,5 @@
+// Copyright 2014. All rights reserved.
+// Author: Nelson LIAO <liaoxin1014@gmail.com>
 #include <unistd.h>
 #include <stdint.h>
 #include <sys/time.h>
